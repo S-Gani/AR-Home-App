@@ -1,12 +1,12 @@
 # Home App for AR Glass
 
 I develop a application of an "AR Home App" that operates on a smartphone connected to AR glasses.
-
+---
 ### Features Overview
 
 - The purpose is to make existing Android apps (referred to as 2D apps or smartphone apps) more user-friendly for AR glasses.
 - The app will allow users to launch and interact with smartphone apps on the secondary AR glass display using the smartphone as a touchpad.
-
+---
 ### Key Features
 
 1. **AR Home App Automatic Launch**:
