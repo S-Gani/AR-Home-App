@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/presentation_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_with_border"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:id="@+id/appIconsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:layout_marginLeft="400dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="400dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/linear_layout_border"
+        android:columnCount="4"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <!-- You can add other attributes to customize the layout as needed -->
+
+    </GridLayout>
+    <!--  </ScrollView>-->
+
+
+</LinearLayout>
+
